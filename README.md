@@ -120,7 +120,7 @@ UNITY엔진을 이용하여 쯔꾸르 형식의 추리 방탈출 게임을 제�
 |1|플레이어|<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/21e7fb2b-704a-4ae9-953b-db8ed096a242"/>|
 |2|플레이어|<img width="200%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/2ee9a1e5-e5ca-4784-8d51-4540bd0cc5a"/>|
 |3|미아 대화|<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/60778cae-95c5-4da0-aeeb-e6b8cd724709"/>|
-|4|재열 대화|<img width="50%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/72967f41-b8b5-49e9-a4c3-a3dee603b0ab"/>|
+|4|재열 대화|<img width="10%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/72967f41-b8b5-49e9-a4c3-a3dee603b0ab"/>|
 |5|문제지|<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/bc8a8de8-af6e-4f42-8ce4-71cbe34b29a5"/>|
 |6|열쇠|<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/20241ff4-e8a7-4f1f-8d7d-fe585dab3a85"/>|
 |7|문|<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/b85109fb-05de-4d33-ab98-f4cd0f8a9033"/>|
