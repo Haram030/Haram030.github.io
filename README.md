@@ -31,7 +31,7 @@
 # [관련 이미지 & 동영상]
 
 - 이미지
-- [![istockphoto-1093591038-612x612 (3)]((https://github.com/Haram030/Haram030.github.io/issues/1#issue-1984297929)]
+- <img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/6e860c9c-f48f-48a7-8c2f-7fd198974c78"/>
 
   이러한 형태의 각종 맵을 함정을 해재하고 탈출하는 게임입니다.
 
