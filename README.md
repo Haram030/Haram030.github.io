@@ -35,7 +35,7 @@
 
   이러한 형태의 각종 맵을 함정을 해재하고 탈출하는 게임입니다.
 
-- [![20200822145654](https://github.com/Haram030/Haram030.github.io/issues/2#issue-1984298804)]
+- <img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/d74332fd-5441-419e-b97c-ef8790d78584"/>
   이런식으로 다른 npc 들 과의 대화를 통하여 힌트를 얻고 스토리를 진행할 수 있습니다.
 
 - 동영상
@@ -53,8 +53,7 @@
 
 # [대표 이미지]
 
-[[![44](https://github.com/Haram030/Haram030.github.io/issues/3#issue-1984299101)]
-
+<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/a43f5fea-1a72-43f3-96ac-5b9065656de1"/>
 
 <br><br>
 
@@ -118,13 +117,13 @@ UNITY엔진을 이용하여 쯔꾸르 형식의 추리 방탈출 게임을 제�
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|플레이어|![image][(https://github.com/Haram030/Haram030.github.io/issues/4#issue-1984299560)]
-|2|플레이어|![image](https://github.com/Haram030/Haram030.github.io/issues/5#issue-1984300577)|
-|3|미아 대화|![image](https://github.com/Haram030/Haram030.github.io/issues/6#issue-1984301028)|
-|4|재열 대화|![image](https://github.com/Haram030/Haram030.github.io/issues/7#issue-1984301307)|
-|5|문제지|![image](https://github.com/Haram030/Haram030.github.io/issues/8#issue-1984301739)|
-|6|열쇠|![image](https://github.com/Haram030/Haram030.github.io/issues/9#issue-1984302109)|
-|7|문|![image](https://github.com/Haram030/Haram030.github.io/issues/10#issue-1984302391)|
+|1|플레이어|<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/21e7fb2b-704a-4ae9-953b-db8ed096a242"/>|
+|2|플레이어|<img width="200%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/2ee9a1e5-e5ca-4784-8d51-4540bd0cc5a"/>|
+|3|미아 대화|<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/60778cae-95c5-4da0-aeeb-e6b8cd724709"/>|
+|4|재열 대화|<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/72967f41-b8b5-49e9-a4c3-a3dee603b0ab"/>|
+|5|문제지|<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/bc8a8de8-af6e-4f42-8ce4-71cbe34b29a5"/>|
+|6|열쇠|<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/20241ff4-e8a7-4f1f-8d7d-fe585dab3a85"/>|
+|7|문|<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/b85109fb-05de-4d33-ab98-f4cd0f8a9033"/>|
 
 # 2. 파라미터(속성) 뽑아 보기
 
@@ -213,17 +212,17 @@ NPC와 대화중에 좋지않은 선택을 할경우 게임이 오버될 수 있
 
 6-2. 시간별 흐름도 flowchart
 
-![1212](https://github.com/Haram030/Haram030.github.io/issues/11#issue-1984303009)
+<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/3a0b824e-5354-46be-a2d1-ccb799343444"/>
 
 6-3. 키보드 이벤트에 대한 흐름도
 
-![515](https://github.com/Haram030/Haram030.github.io/issues/12#issue-1984303388)
+<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/9107dc88-7756-4e7e-9e55-21a900b898c7"/>
 
 
 
 # 7. 스토리 보드
 
-|![13213](https://github.com/Haram030/Haram030.github.io/issues/13#issue-1984303732)|
+<img width="80%" src="https://github.com/Haram030/Haram030.github.io/assets/127164063/2fedc518-7d44-45fd-b846-7b952384720a"/>
 
 
 
