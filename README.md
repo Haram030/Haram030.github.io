@@ -39,12 +39,8 @@
   이런식으로 다른 npc 들 과의 대화를 통하여 힌트를 얻고 스토리를 진행할 수 있습니다.
 
 - 동영상
-- https://youtu.be/iqiXST7SFMM
-  (유사게임영상) 폴가이즈 게임사에서 제공하는 크리에이터로 유저들이 직접 만들어본 맵의 플레이 영상 입니다.
-
-
-- https://youtu.be/Lm5yHWBzfXo
-  참고한 유사게임인 폴가이즈의 시네마틱 트레일러 입니다.                     
+- [https://youtu.be/iqiXST7SFMM](https://www.youtube.com/watch?v=1gCdAGD9xLA&t=1s)
+  (유사게임영상) 참고 게임인 단간론파 트레일러 영상입니다.                
 
 
 
