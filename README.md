@@ -31,13 +31,12 @@
 # [관련 이미지 & 동영상]
 
 - 이미지
-- ![istockphoto-1093591038-612x612 (3)](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/c0b5b3f5-5e8d-437e-822c-3c5c8489d85a)
+- [![istockphoto-1093591038-612x612 (3)]((https://github.com/Haram030/Haram030.github.io/issues/1#issue-1984297929)]
 
-  메인컨셉인 도전의 의미와 서브컨셉인 성취감을 나타내는 이미지 입니다.
+  이러한 형태의 각종 맵을 함정을 해재하고 탈출하는 게임입니다.
 
-- ![20200822145654](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/7f9ccfaa-20fa-4222-801f-8592a92daed5)
-
-  구상중인 작품과 유사한 게임의 서브컨셉의 다양성을 포함한 다양한 장애물과 서브컨셉의 아기자기함을 보여주는 이미지 입니다.
+- [![20200822145654](https://github.com/Haram030/Haram030.github.io/issues/2#issue-1984298804)]
+  이런식으로 다른 npc 들 과의 대화를 통하여 힌트를 얻고 스토리를 진행할 수 있습니다.
 
 - 동영상
 - https://youtu.be/iqiXST7SFMM
@@ -54,15 +53,14 @@
 
 # [대표 이미지]
 
-![44](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/aac682bf-eabc-47e2-87c0-1700e52e58b9)
+[[![44](https://github.com/Haram030/Haram030.github.io/issues/3#issue-1984299101)]
 
 
 <br><br>
 
 # [컨셉 & 대표이미지 기반 작품묘사]
 
-> ### 대표이미지 기반 : 아기자기한 컨셉의 캐릭터를 직접 조작하여 맵 내에 배치된 장애물들을 돌파해 골라인을 향해 나아가는 게임으로써 도전정신과 성취감을 선사한다.
-
+> ### 대표이미지 기반 : 스토리의 추리와 함정 해제를 동시에 하는 추리 탈출게임.
 
 <br><br>
 
@@ -120,23 +118,13 @@ UNITY엔진을 이용하여 쯔꾸르 형식의 추리 방탈출 게임을 제�
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|주인공|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/cb3f35c6-c835-44f1-92b1-62937d57ecbc)|
-|2|트랩1|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/7f85784e-01a4-4b5e-88d1-2d27c62919ee)|
-|3|트랩2|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/17ae0de5-bf92-4b91-9f2e-975045f60395)|
-|4|트랩3|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/4a5e2986-7a3d-4f57-859f-cd04deb56eb2)|
-|5|트랩4|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/9f098c66-b723-4a93-bcbc-b15b67aaac00)|
-|6|트랩5|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/8ed6925e-c3f9-40e9-8830-749a981a3bcb)|
-|7|트랩6|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/d893e32e-cbe8-44d8-b8c6-e8986608358c)|
-|8|트랩7|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/f10c39f3-22d5-4290-93ad-732c3d4652a5)|
-|8|스카이박스|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/9ab79c7b-5404-4bdb-aaf2-6ab2166ca13d)|
-|8|나무|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/33fffafb-bf0d-48a9-af74-1c55b0e55366)|
-|8|풀|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/bcbd41a5-aa08-4463-821e-83592780ee20)|
-|8|골인|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/0382adc6-e403-42e8-81f9-4e659b7dcd87)|
-|8|시작버튼|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/855326cc-5a85-4997-a375-0d09c5f05843)|
-|8|종료버튼|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/bd5a3386-74bb-4a23-9c0d-c81cfbf887c8)|
-|8|효과음1|점프 사운드 사용 예정|
-|8|효과음2|걷는 효과음 사용 예정|
-|8|배경음|배경화면 사운드 추가 예정|
+|1|플레이어|![image][(https://github.com/Haram030/Haram030.github.io/issues/4#issue-1984299560)]
+|2|플레이어|![image](https://github.com/Haram030/Haram030.github.io/issues/5#issue-1984300577)|
+|3|미아 대화|![image](https://github.com/Haram030/Haram030.github.io/issues/6#issue-1984301028)|
+|4|재열 대화|![image](https://github.com/Haram030/Haram030.github.io/issues/7#issue-1984301307)|
+|5|문제지|![image](https://github.com/Haram030/Haram030.github.io/issues/8#issue-1984301739)|
+|6|열쇠|![image](https://github.com/Haram030/Haram030.github.io/issues/9#issue-1984302109)|
+|7|문|![image](https://github.com/Haram030/Haram030.github.io/issues/10#issue-1984302391)|
 
 # 2. 파라미터(속성) 뽑아 보기
 
@@ -225,32 +213,18 @@ NPC와 대화중에 좋지않은 선택을 할경우 게임이 오버될 수 있
 
 6-2. 시간별 흐름도 flowchart
 
-![1212](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/088b4db2-2706-4930-8c9a-c958df4f7357)
+![1212](https://github.com/Haram030/Haram030.github.io/issues/11#issue-1984303009)
 
 6-3. 키보드 이벤트에 대한 흐름도
 
-![515](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/b63fb357-345c-4e55-a06f-fb2bed14b9dd)
+![515](https://github.com/Haram030/Haram030.github.io/issues/12#issue-1984303388)
 
 
-6-4. 용어정리
-타이틀 씬 :　게임 시작 버튼 (게임을 시작할 수 있는 버튼이다)
-    <br> : 게임 종료 버튼 (게임을 종료할 수 있는 버튼이다)
-플레이 씬 (인게임) : 타이머 (게임이 경과된 시간을 나타냄)
-          <br>    : 트랩 섹션 (맵 내에 배치된 장애물들을 나타냄)
-          <br>    : 키코드 (총 5가지의 키코드 (방향키+스페이스 바)
-          <br>    : W (캐릭터의 전방 이동키 W 이다.)
-          <br>    : A ( 캐릭터의 좌측 이동키 A 이다.)
-          <br>    : S ( 캐릭터의 후방 이동키 S 이다.)
-          <br>    : D ( 캐릭터의 우측 이동키 D 이다,)
-          <br>    : SPACE ( 캐릭터의 점프키 SPACE 이다.)
 
 # 7. 스토리 보드
-|1|2|3|
-|:----:|:----:|:----:|
-|![13213](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/51170a31-e9fd-4cff-b3ca-12be75573e40)|![333](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/3d28a2c5-f67e-4f10-b5b6-8512969ee884)|![222](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/0b1973d8-fbab-435a-9acb-806e658bc68c)|
-|1. 타이틀 씬의 배경과 함께 시작버튼 / 종료 버튼이 배치되어있다.|2. 게임을 시작하면 플레이어가 장애물들이 펼쳐져있는 맵에서 스폰되고 레이스가 시작된다.|3. 플레이어가 장애물들을 넘어가며 골라인을 향해 달려간다.|
-|![23423424](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/3ea23684-98c6-4157-83c1-c6734a43260b)|![t3535](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/5937905c-1d9c-4eaa-a016-04c03ab866da)||
-|4. 장애물들을 넘어 골라인에 도달하면 게임이 끝나게되고|5. 게임 클리어 씬이 나오면서 게임이 끝이난다.||
+
+|![13213](https://github.com/Haram030/Haram030.github.io/issues/13#issue-1984303732)|
+
 
 
 
